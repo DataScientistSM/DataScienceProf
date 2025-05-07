@@ -2,8 +2,9 @@
 
 ## About Me
 
+Since starting work at direct line group I have always been a programmer but i am venturing out to start to try and use languages for things other than to build algorithms.
 I am currently on an apprenticeship to complete a data science degree with BPP whilst working at Direct Line Group.
-
+As part of the degree I am attempting to learn as much python as I can whilst still doing my day job to the high standard that is required of me in such a fast paced environment, everyday seems to be a new adventure at the moment and learning new things along the way, trying not to be left in the past!
 
 ---
 
